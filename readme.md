@@ -1,0 +1,1 @@
+# Laravel Scout Realtime - School of Net
